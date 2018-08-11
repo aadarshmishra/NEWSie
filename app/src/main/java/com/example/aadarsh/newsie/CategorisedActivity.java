@@ -32,6 +32,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * Created by Aadarsh on 3/24/2018.
+ */
+
 public class CategorisedActivity extends AppCompatActivity {
 
     JSONArray article = null;

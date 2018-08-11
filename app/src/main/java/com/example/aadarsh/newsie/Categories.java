@@ -10,6 +10,10 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+/**
+ * Created by Aadarsh on 3/24/2018.
+ */
+
 public class Categories extends AppCompatActivity {
 
     String[] categories = {"Trending","Business","Entertainment","General","Health","Science"
